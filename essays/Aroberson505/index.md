@@ -13,15 +13,24 @@ start:                                   # the year your story begins, shown on 
 layout: essay
 ---
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
-
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
-
 ## Main Story
 
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
+Located on the central campus of the University of New Mexico (UNM) in Albuquerque, Mitchell Hall stands as one of the institution’s oldest, most heavily utilized general-education classroom facilities. Over its seventy-five-year existence, the building has served as a rite of passage for generations of undergraduate students navigating core academic prerequisites. Its creation and subsequent modernization mirror the university's broader mid-century post-war growth and its late-2000s transition toward sustainable, technologically advanced infrastructure.
 
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
+Design, Naming, and Mid-Century Construction (1950–1951)
+
+Mitchell Hall was constructed in 1950 and opened for widespread campus use during the 1951 academic year to meet the educational needs of a booming student body. The facility was named in honor of Dean Lynn B. Mitchell, a prominent institutional pioneer who originally joined the university in 1912. Mitchell was a dedicated professor of Latin and Greek languages, earning the campus nickname "The Old Roman," and served as a foundational academic dean during the university's formative decades.
+Architecturally, the building represents a crucial evolutionary phase in the career of legendary regional architect John Gaw Meem, who partnered with the firm Zehner, Holien and Associates to execute the project. Unlike Meem's more heavily ornamented, highly romantic Spanish-Pueblo Revival masterpieces from the 1930s (such as the nearby Zimmerman Library), Mitchell Hall emerged as a streamlined, two-story concrete block structure. While it retained Meem’s signature earthy color palette, solid massing, and flat-roofed profile, it leaned heavily toward functional, institutional simplicity—a programmatic necessity dictated by tight post-war budgets and the immediate demand for multi-department classrooms.
+
+Decades of General Education and Spatial Shifts (1950s–1970s)
+
+Upon its completion, Mitchell Hall was celebrated as one of the most modern instructional venues on campus, outfitted with contemporary audio-visual and lecturing tools captured in mid-century promotional postcards. For decades, it remained the focal point of UNM's foundational curriculum, hosting key TA sessions, introductory lectures, and iconic courses like the history of math taught by popular educators like Dr. Merle Mitchell.
+The physical environment surrounding Mitchell Hall shifted dramatically during the mid-1970s. Prior to 1974, a bustling student parking lot sat directly adjacent to the building, and Yale Boulevard openly cut through the center of campus, running south straight past the alleyway behind Mitchell Hall. In the fall of 1974, university planners officially closed this section of Yale Boulevard and the surrounding parking lots to clear room for the construction of the iconic UNM Duck Pond. This major development effectively transitioned Mitchell Hall's surrounding environment from a vehicle-dominated thoroughfare into a pedestrian-friendly campus core.
+
+The 21st-Century Sustainable Renewal (2008–2009)
+
+By the turn of the century, Mitchell Hall suffered heavily from structural stagnation. Having received no major renovations since its 1950 construction, the 54,000-square-foot facility had become notoriously energy-inefficient. Its 60-year-old, single-pane, steel-framed windows leaked conditioned air, and the interior was widely criticized by students and faculty for its rigid, dark corridors, poor ventilation, and lack of collaboration spaces.
+To salvage the historic building, UNM launched a sweeping modernization project that began late in 2008 and wrapped up in 2009. The university commissioned the Hartman + Majewski Design Group (with architectural work led by Eric Haskins) to revitalize the space. The design team stripped down the rigid layout, maximizing the flow of natural daylight and introducing advanced ventilation, smart boards, and flexible seating. The $9.1 million remodel successfully brought the mid-century building into the modern era, achieving LEED Silver Certification while carefully preserving Meem's historic exterior facade
 
 <!-- Full-width figure. This is the default for any landscape photo wider than about 700px.
      image-path is just the filename: upload your images into this essay's folder,
