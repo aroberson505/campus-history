@@ -1,9 +1,9 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Native American History
+title: Mitchell Hall
 author: Alex Roberson
 category: Public Art                  # change to a category from the student guide
-header-image: talley_3_medium.jpg   # the filename of your own image
+header-image: mitchell-hall.jpg   # the filename of your own image
 header-caption: New Mexico's Digital Collection
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
