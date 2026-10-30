@@ -3,10 +3,10 @@
 title: Mitchell Hall
 author: Alex Roberson
 category: Public Art                  # change to a category from the student guide
-header-image: mitchell-hall.jpg   # the filename of your own image
+header-image: mitchell-hall2.jpg   # the filename of your own image
 header-caption: New Mexico's Digital Collection
 # Fill these in later, once your research is under way.
-card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
+card-description: Mitchell Hall stands as one of the institution’s oldest, most heavily utilized general-education classroom facilities. Over its seventy-five-year existence, the building has served as a rite of passage for generations of undergraduate students navigating core academic prerequisites.
 start:                                   # the year your story begins, shown on the map
 
 # Leave this line as it is.
